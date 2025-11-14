@@ -1,0 +1,11 @@
+{
+  "name": "Lean Dev Environment",
+  "image": "ghcr.io/raghu12091999/lean-project:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "leanprover.lean4"
+      ]
+    }
+  }
+}
